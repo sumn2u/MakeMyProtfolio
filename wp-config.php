@@ -23,10 +23,10 @@
 define('DB_NAME', 'itcrews');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'adminxmqurhY');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'y8b8vrUvyBK6');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
